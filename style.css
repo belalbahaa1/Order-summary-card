@@ -40,7 +40,7 @@ a {
     background-color: #fff;
     border-radius: 20px;
     overflow: hidden;
-    height: 75vh;
+    height: 80vh;
 }
 .text-content {
     padding: 7%;
@@ -58,7 +58,7 @@ a {
     text-transform: capitalize;
 }
 .plan-box {
-    background-color: var(--Pale-blue);
+    background-color: var(--Very-pale-blue);
     border-radius: 12px;
     display: flex;
     justify-content: space-between;
@@ -75,7 +75,7 @@ a {
 .plan-box-left div {
     margin-left: 20px;
 }
-.plan-box-left div h5 {
+.plan-box-left div h2 {
     color: var(--Dark-blue);
     font-weight: 900;
     font-size: 15px;
