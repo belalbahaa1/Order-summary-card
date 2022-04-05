@@ -40,6 +40,7 @@ a {
     background-color: #fff;
     border-radius: 20px;
     overflow: hidden;
+    height: 75vh;
 }
 .text-content {
     padding: 7%;
